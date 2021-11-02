@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm HarAshish Arora, currently residing in India in India. I'm 14 and in 9th Grade :D
+I'm HarAshish Arora, currently residing in India in India. I'm 14 and in 10th Grade :D
 
 <!--
 **thundercrypt/thundercrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
